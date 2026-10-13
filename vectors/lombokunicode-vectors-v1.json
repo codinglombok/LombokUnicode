@@ -1,0 +1,4727 @@
+{
+ "library": "LombokUnicode",
+ "version": "1",
+ "unicode": "17.0.0",
+ "spec": "docs/SPEC_LombokUnicode_v0.1.0.md",
+ "cases": [
+  {
+   "id": "class-0041",
+   "fn": "class",
+   "input": {
+    "cp": 65
+   },
+   "expected": "L"
+  },
+  {
+   "id": "class-05D0",
+   "fn": "class",
+   "input": {
+    "cp": 1488
+   },
+   "expected": "R"
+  },
+  {
+   "id": "class-0627",
+   "fn": "class",
+   "input": {
+    "cp": 1575
+   },
+   "expected": "AL"
+  },
+  {
+   "id": "class-0030",
+   "fn": "class",
+   "input": {
+    "cp": 48
+   },
+   "expected": "EN"
+  },
+  {
+   "id": "class-002B",
+   "fn": "class",
+   "input": {
+    "cp": 43
+   },
+   "expected": "ES"
+  },
+  {
+   "id": "class-0024",
+   "fn": "class",
+   "input": {
+    "cp": 36
+   },
+   "expected": "ET"
+  },
+  {
+   "id": "class-0660",
+   "fn": "class",
+   "input": {
+    "cp": 1632
+   },
+   "expected": "AN"
+  },
+  {
+   "id": "class-002C",
+   "fn": "class",
+   "input": {
+    "cp": 44
+   },
+   "expected": "CS"
+  },
+  {
+   "id": "class-0300",
+   "fn": "class",
+   "input": {
+    "cp": 768
+   },
+   "expected": "NSM"
+  },
+  {
+   "id": "class-00AD",
+   "fn": "class",
+   "input": {
+    "cp": 173
+   },
+   "expected": "BN"
+  },
+  {
+   "id": "class-000A",
+   "fn": "class",
+   "input": {
+    "cp": 10
+   },
+   "expected": "B"
+  },
+  {
+   "id": "class-0009",
+   "fn": "class",
+   "input": {
+    "cp": 9
+   },
+   "expected": "S"
+  },
+  {
+   "id": "class-0020",
+   "fn": "class",
+   "input": {
+    "cp": 32
+   },
+   "expected": "WS"
+  },
+  {
+   "id": "class-0021",
+   "fn": "class",
+   "input": {
+    "cp": 33
+   },
+   "expected": "ON"
+  },
+  {
+   "id": "class-202A",
+   "fn": "class",
+   "input": {
+    "cp": 8234
+   },
+   "expected": "LRE"
+  },
+  {
+   "id": "class-202D",
+   "fn": "class",
+   "input": {
+    "cp": 8237
+   },
+   "expected": "LRO"
+  },
+  {
+   "id": "class-202B",
+   "fn": "class",
+   "input": {
+    "cp": 8235
+   },
+   "expected": "RLE"
+  },
+  {
+   "id": "class-202E",
+   "fn": "class",
+   "input": {
+    "cp": 8238
+   },
+   "expected": "RLO"
+  },
+  {
+   "id": "class-202C",
+   "fn": "class",
+   "input": {
+    "cp": 8236
+   },
+   "expected": "PDF"
+  },
+  {
+   "id": "class-2066",
+   "fn": "class",
+   "input": {
+    "cp": 8294
+   },
+   "expected": "LRI"
+  },
+  {
+   "id": "class-2067",
+   "fn": "class",
+   "input": {
+    "cp": 8295
+   },
+   "expected": "RLI"
+  },
+  {
+   "id": "class-2068",
+   "fn": "class",
+   "input": {
+    "cp": 8296
+   },
+   "expected": "FSI"
+  },
+  {
+   "id": "class-2069",
+   "fn": "class",
+   "input": {
+    "cp": 8297
+   },
+   "expected": "PDI"
+  },
+  {
+   "id": "class-0378",
+   "fn": "class",
+   "input": {
+    "cp": 888
+   },
+   "expected": "L"
+  },
+  {
+   "id": "class-05FF",
+   "fn": "class",
+   "input": {
+    "cp": 1535
+   },
+   "expected": "R"
+  },
+  {
+   "id": "class-07BF",
+   "fn": "class",
+   "input": {
+    "cp": 1983
+   },
+   "expected": "AL"
+  },
+  {
+   "id": "class-08FF",
+   "fn": "class",
+   "input": {
+    "cp": 2303
+   },
+   "expected": "NSM"
+  },
+  {
+   "id": "class-20CF",
+   "fn": "class",
+   "input": {
+    "cp": 8399
+   },
+   "expected": "ET"
+  },
+  {
+   "id": "class-FDD0",
+   "fn": "class",
+   "input": {
+    "cp": 64976
+   },
+   "expected": "BN"
+  },
+  {
+   "id": "class-10FFFF",
+   "fn": "class",
+   "input": {
+    "cp": 1114111
+   },
+   "expected": "BN"
+  },
+  {
+   "id": "class-1EFFF",
+   "fn": "class",
+   "input": {
+    "cp": 126975
+   },
+   "expected": "R"
+  },
+  {
+   "id": "class-0E00",
+   "fn": "class",
+   "input": {
+    "cp": 3584
+   },
+   "expected": "L"
+  },
+  {
+   "id": "class-1F600",
+   "fn": "class",
+   "input": {
+    "cp": 128512
+   },
+   "expected": "ON"
+  },
+  {
+   "id": "class-10D40",
+   "fn": "class",
+   "input": {
+    "cp": 68928
+   },
+   "expected": "AN"
+  },
+  {
+   "id": "mirror-0028",
+   "fn": "mirror",
+   "input": {
+    "cp": 40
+   },
+   "expected": 41
+  },
+  {
+   "id": "mirror-0029",
+   "fn": "mirror",
+   "input": {
+    "cp": 41
+   },
+   "expected": 40
+  },
+  {
+   "id": "mirror-003C",
+   "fn": "mirror",
+   "input": {
+    "cp": 60
+   },
+   "expected": 62
+  },
+  {
+   "id": "mirror-005B",
+   "fn": "mirror",
+   "input": {
+    "cp": 91
+   },
+   "expected": 93
+  },
+  {
+   "id": "mirror-007B",
+   "fn": "mirror",
+   "input": {
+    "cp": 123
+   },
+   "expected": 125
+  },
+  {
+   "id": "mirror-2208",
+   "fn": "mirror",
+   "input": {
+    "cp": 8712
+   },
+   "expected": 8715
+  },
+  {
+   "id": "mirror-2264",
+   "fn": "mirror",
+   "input": {
+    "cp": 8804
+   },
+   "expected": 8805
+  },
+  {
+   "id": "mirror-300C",
+   "fn": "mirror",
+   "input": {
+    "cp": 12300
+   },
+   "expected": 12301
+  },
+  {
+   "id": "mirror-FF08",
+   "fn": "mirror",
+   "input": {
+    "cp": 65288
+   },
+   "expected": 65289
+  },
+  {
+   "id": "mirror-0041",
+   "fn": "mirror",
+   "input": {
+    "cp": 65
+   },
+   "expected": null
+  },
+  {
+   "id": "mirror-2329",
+   "fn": "mirror",
+   "input": {
+    "cp": 9001
+   },
+   "expected": 9002
+  },
+  {
+   "id": "bracket-0028",
+   "fn": "bracket",
+   "input": {
+    "cp": 40
+   },
+   "expected": {
+    "pair": 41,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-0029",
+   "fn": "bracket",
+   "input": {
+    "cp": 41
+   },
+   "expected": {
+    "pair": 40,
+    "type": "close"
+   }
+  },
+  {
+   "id": "bracket-005B",
+   "fn": "bracket",
+   "input": {
+    "cp": 91
+   },
+   "expected": {
+    "pair": 93,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-005D",
+   "fn": "bracket",
+   "input": {
+    "cp": 93
+   },
+   "expected": {
+    "pair": 91,
+    "type": "close"
+   }
+  },
+  {
+   "id": "bracket-007B",
+   "fn": "bracket",
+   "input": {
+    "cp": 123
+   },
+   "expected": {
+    "pair": 125,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-2329",
+   "fn": "bracket",
+   "input": {
+    "cp": 9001
+   },
+   "expected": {
+    "pair": 9002,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-3008",
+   "fn": "bracket",
+   "input": {
+    "cp": 12296
+   },
+   "expected": {
+    "pair": 12297,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-FF62",
+   "fn": "bracket",
+   "input": {
+    "cp": 65378
+   },
+   "expected": {
+    "pair": 65379,
+    "type": "open"
+   }
+  },
+  {
+   "id": "bracket-003C",
+   "fn": "bracket",
+   "input": {
+    "cp": 60
+   },
+   "expected": null
+  },
+  {
+   "id": "bracket-0041",
+   "fn": "bracket",
+   "input": {
+    "cp": 65
+   },
+   "expected": null
+  },
+  {
+   "id": "levels-bct-1",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     1489,
+     40,
+     1490,
+     1491,
+     91,
+     38,
+     101,
+     102,
+     93,
+     46,
+     41,
+     103,
+     104
+    ],
+    "direction": "ltr"
+   },
+   "expected": {
+    "paragraphLevel": 0,
+    "levels": [
+     "1",
+     "1",
+     "0",
+     "1",
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    "order": [
+     1,
+     0,
+     2,
+     4,
+     3,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     97,
+     41,
+     9856,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-1801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     98,
+     41,
+     40,
+     1488,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     0,
+     1,
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-2701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     97,
+     9857,
+     41,
+     40,
+     9858,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-3601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     41,
+     9856,
+     1488,
+     40,
+     97,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-4501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     98,
+     9856,
+     41,
+     40,
+     41,
+     99
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-5401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     9856,
+     41,
+     40,
+     41,
+     9857,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-6301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     97,
+     41,
+     98,
+     40,
+     9856,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-7201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     40,
+     41,
+     9857,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-8101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     40,
+     97,
+     41,
+     9856,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-9001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     97,
+     1488,
+     9857,
+     40,
+     41,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-9901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     9856,
+     40,
+     98,
+     40,
+     9857,
+     41,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-10801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     41,
+     97,
+     1488,
+     9856,
+     41,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-11701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     40,
+     9856,
+     97,
+     41,
+     1489,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-12601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     40,
+     41,
+     1489,
+     9856,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-13501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     9856,
+     41,
+     91,
+     93,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-14401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     41,
+     9857,
+     91,
+     97,
+     93,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-15301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     1488,
+     41,
+     9857,
+     91,
+     1489,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-16201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     41,
+     97,
+     9856,
+     1488,
+     9857,
+     91,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-17101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     1488,
+     41,
+     98,
+     1489,
+     91,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-18001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     97,
+     9856,
+     98,
+     41,
+     91,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     2,
+     3,
+     4,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-18901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     91,
+     93,
+     9856,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-19801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     91,
+     93,
+     97,
+     1488,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-20701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     91,
+     93,
+     9856,
+     97,
+     41,
+     9857,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-21601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     1488,
+     91,
+     93,
+     1489,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-22501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     98,
+     91,
+     93,
+     99,
+     41,
+     9856
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1"
+    ],
+    "order": [
+     7,
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-23401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     9856,
+     40,
+     91,
+     93,
+     97,
+     41,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-24301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     91,
+     93,
+     97,
+     1489,
+     9856,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-25201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     91,
+     41,
+     97,
+     93,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     4,
+     5,
+     6,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-26101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     1489,
+     91,
+     41,
+     9856,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-27001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     91,
+     9856,
+     41,
+     97,
+     1488,
+     93,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-27901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     91,
+     9856,
+     41,
+     98,
+     93,
+     99
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-28801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     91,
+     1488,
+     9856,
+     41,
+     93,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-29701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     91,
+     41,
+     1488,
+     9856,
+     1489,
+     9857,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-30601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     91,
+     1489,
+     97,
+     41,
+     9856,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-31501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     1488,
+     9856,
+     1489,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-32401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     40,
+     9856,
+     1488,
+     41,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-33301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     1489,
+     40,
+     97,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-34201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     41,
+     97,
+     40,
+     9857,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     3,
+     4,
+     5,
+     6,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-35101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     97,
+     41,
+     1488,
+     98,
+     9856,
+     40
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "2",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-36001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     91,
+     97,
+     40,
+     41,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-36901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     91,
+     9856,
+     1488,
+     9857,
+     40,
+     41,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-37801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     91,
+     40,
+     1488,
+     9856,
+     97,
+     1489,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-38701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     1488,
+     91,
+     41,
+     9856
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-39601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     97,
+     9856,
+     91,
+     98,
+     41,
+     99
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     1,
+     2,
+     3,
+     4,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-40501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     97,
+     1489,
+     91,
+     41,
+     9856
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-41401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     9857,
+     41,
+     9858,
+     91,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-42301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     41,
+     98,
+     1488,
+     99,
+     91
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     0,
+     1,
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-43201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     9856,
+     41,
+     40,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-44101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     41,
+     9856,
+     97,
+     40,
+     1488,
+     9857,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-45001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     41,
+     1488,
+     9856,
+     40,
+     9857,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-45901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     1488,
+     41,
+     41,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-46801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     1488,
+     41,
+     1489,
+     41,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-47701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     41,
+     9856,
+     1489,
+     41,
+     1490
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-48601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     93,
+     40,
+     1488,
+     9856,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-49501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     93,
+     9856,
+     40,
+     1488,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-50401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     93,
+     1489,
+     40,
+     41,
+     9856,
+     1490
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-51301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     93,
+     9857,
+     1488,
+     41,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-52201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     97,
+     93,
+     1488,
+     9856,
+     1489,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-53101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     41,
+     9857,
+     93,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-54001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     1488,
+     41,
+     93,
+     9857,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-54901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     9856,
+     40,
+     97,
+     41,
+     1489,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-55801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     40,
+     9857,
+     97,
+     41,
+     40,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-56701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     97,
+     40,
+     98,
+     41,
+     40,
+     9856,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     1,
+     2,
+     3,
+     4,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-57601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     40,
+     1489,
+     41,
+     40,
+     9856,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-58501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     97,
+     9857,
+     40,
+     41,
+     40,
+     9858,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-59401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     97,
+     40,
+     1488,
+     41,
+     40,
+     98,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-60301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     9856,
+     1488,
+     41,
+     97,
+     9857,
+     40,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-61201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     9856,
+     40,
+     40,
+     98,
+     41,
+     40,
+     9857,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-62101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     41,
+     97,
+     40,
+     9856,
+     1488,
+     98,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-63001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     1488,
+     40,
+     9856,
+     41,
+     40,
+     41,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-63901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     97,
+     1488,
+     98,
+     41,
+     40,
+     41,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-64801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     40,
+     41,
+     9856,
+     97,
+     40,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     5,
+     6,
+     7,
+     8,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-65701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     40,
+     97,
+     9856,
+     98,
+     41,
+     40,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     3,
+     4,
+     5,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-66601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     1488,
+     41,
+     40,
+     97,
+     1489,
+     41,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-67501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     91,
+     97,
+     93,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-68401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     40,
+     91,
+     93,
+     1488,
+     97,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-69301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     40,
+     9856,
+     91,
+     97,
+     93,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-70201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     9856,
+     91,
+     9857,
+     97,
+     93,
+     98,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-71101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     91,
+     9856,
+     97,
+     93,
+     9857,
+     41,
+     1488
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-72001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     40,
+     1488,
+     91,
+     9857,
+     93,
+     41,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-72901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     1488,
+     40,
+     1489,
+     91,
+     1490,
+     93,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-73801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     97,
+     91,
+     9856,
+     93,
+     98,
+     1488,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     2,
+     3,
+     4,
+     5,
+     6,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-74701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     40,
+     98,
+     91,
+     99,
+     9856,
+     93,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-75601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     91,
+     97,
+     93,
+     1488,
+     41,
+     9856,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-76501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     9856,
+     40,
+     40,
+     91,
+     9857,
+     1489,
+     93,
+     41
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-77401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     9856,
+     40,
+     91,
+     93,
+     1489,
+     41,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-78301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     40,
+     91,
+     97,
+     93,
+     98,
+     41,
+     99
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "2",
+     "1",
+     "2"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-79201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     1489,
+     40,
+     91,
+     93,
+     97,
+     41,
+     9856
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-80101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     40,
+     9857,
+     91,
+     1488,
+     41,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-81001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     98,
+     40,
+     91,
+     1488,
+     41,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     0,
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-81901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     40,
+     91,
+     41,
+     1489,
+     93,
+     97
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-82801",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     40,
+     91,
+     97,
+     41,
+     9857,
+     93,
+     9858
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-83701",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     9856,
+     97,
+     40,
+     91,
+     41,
+     1488,
+     93,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-84601",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     9856,
+     40,
+     40,
+     1488,
+     91,
+     41,
+     97,
+     93,
+     98
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "2",
+     "2",
+     "2"
+    ],
+    "order": [
+     6,
+     7,
+     8,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-85501",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     40,
+     91,
+     41,
+     9856,
+     98,
+     93,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "2",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-86401",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     97,
+     9856,
+     1488,
+     40,
+     91,
+     41,
+     1489,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-87301",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     40,
+     97,
+     1488,
+     9856,
+     91,
+     41,
+     93,
+     9857
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-88201",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     97,
+     40,
+     40,
+     91,
+     1488,
+     41,
+     1489,
+     9856,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-89101",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     1488,
+     40,
+     9856,
+     97,
+     40,
+     91,
+     41,
+     93,
+     1489
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-90001",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     40,
+     97,
+     9856,
+     91,
+     41,
+     98,
+     93
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "2",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "levels-bct-90901",
+   "fn": "levels",
+   "input": {
+    "cps": [
+     40,
+     1488,
+     97,
+     40,
+     1489,
+     91,
+     41,
+     93,
+     1490
+    ],
+    "direction": "rtl"
+   },
+   "expected": {
+    "paragraphLevel": 1,
+    "levels": [
+     "1",
+     "1",
+     "2",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1",
+     "1"
+    ],
+    "order": [
+     8,
+     7,
+     6,
+     5,
+     4,
+     3,
+     2,
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "id": "visual-ascii",
+   "fn": "visual",
+   "input": {
+    "text": "abc def",
+    "direction": "auto"
+   },
+   "expected": "abc def"
+  },
+  {
+   "id": "visual-hebrew-word",
+   "fn": "visual",
+   "input": {
+    "text": "אבג",
+    "direction": "auto"
+   },
+   "expected": "גבא"
+  },
+  {
+   "id": "visual-arabic-word",
+   "fn": "visual",
+   "input": {
+    "text": "الس",
+    "direction": "auto"
+   },
+   "expected": "سلا"
+  },
+  {
+   "id": "visual-hebrew-in-latin",
+   "fn": "visual",
+   "input": {
+    "text": "a אבג b",
+    "direction": "ltr"
+   },
+   "expected": "a גבא b"
+  },
+  {
+   "id": "visual-latin-in-hebrew",
+   "fn": "visual",
+   "input": {
+    "text": "אבג abc",
+    "direction": "auto"
+   },
+   "expected": "abc גבא"
+  },
+  {
+   "id": "visual-numbers-keep-order-rtl",
+   "fn": "visual",
+   "input": {
+    "text": "אבג 123",
+    "direction": "auto"
+   },
+   "expected": "123 גבא"
+  },
+  {
+   "id": "visual-parens-mirror-rtl",
+   "fn": "visual",
+   "input": {
+    "text": "אבג (x)",
+    "direction": "rtl"
+   },
+   "expected": "(x) גבא"
+  },
+  {
+   "id": "visual-parens-around-hebrew",
+   "fn": "visual",
+   "input": {
+    "text": "(אבג)",
+    "direction": "rtl"
+   },
+   "expected": "(גבא)"
+  },
+  {
+   "id": "visual-forced-ltr-hebrew-only",
+   "fn": "visual",
+   "input": {
+    "text": "אבג",
+    "direction": "ltr"
+   },
+   "expected": "גבא"
+  },
+  {
+   "id": "visual-forced-rtl-latin-one-run",
+   "fn": "visual",
+   "input": {
+    "text": "abc def",
+    "direction": "rtl"
+   },
+   "expected": "abc def"
+  },
+  {
+   "id": "visual-rtl-latin-then-hebrew",
+   "fn": "visual",
+   "input": {
+    "text": "abc אבג",
+    "direction": "rtl"
+   },
+   "expected": "גבא abc"
+  },
+  {
+   "id": "visual-two-paragraphs",
+   "fn": "visual",
+   "input": {
+    "text": "אבג\nabc",
+    "direction": "auto"
+   },
+   "expected": "גבא\nabc"
+  },
+  {
+   "id": "visual-controls-dropped",
+   "fn": "visual",
+   "input": {
+    "text": "a‫b‬c",
+    "direction": "ltr"
+   },
+   "expected": "abc"
+  },
+  {
+   "id": "visual-rlo-override",
+   "fn": "visual",
+   "input": {
+    "text": "‮abc‬",
+    "direction": "ltr"
+   },
+   "expected": "cba"
+  },
+  {
+   "id": "visual-empty",
+   "fn": "visual",
+   "input": {
+    "text": "",
+    "direction": "auto"
+   },
+   "expected": ""
+  },
+  {
+   "id": "visual-mirror-less-than-rtl",
+   "fn": "visual",
+   "input": {
+    "text": "אבג<אבג",
+    "direction": "rtl"
+   },
+   "expected": "גבא>גבא"
+  },
+  {
+   "id": "direction-latin",
+   "fn": "direction",
+   "input": {
+    "text": "abc"
+   },
+   "expected": "ltr"
+  },
+  {
+   "id": "direction-hebrew",
+   "fn": "direction",
+   "input": {
+    "text": "אבג"
+   },
+   "expected": "rtl"
+  },
+  {
+   "id": "direction-arabic",
+   "fn": "direction",
+   "input": {
+    "text": "الس"
+   },
+   "expected": "rtl"
+  },
+  {
+   "id": "direction-digits-only",
+   "fn": "direction",
+   "input": {
+    "text": "123"
+   },
+   "expected": null
+  },
+  {
+   "id": "direction-punct-then-hebrew",
+   "fn": "direction",
+   "input": {
+    "text": "!? אבג"
+   },
+   "expected": "rtl"
+  },
+  {
+   "id": "direction-isolate-skipped",
+   "fn": "direction",
+   "input": {
+    "text": "⁧abc⁩אבג"
+   },
+   "expected": "rtl"
+  },
+  {
+   "id": "direction-empty",
+   "fn": "direction",
+   "input": {
+    "text": ""
+   },
+   "expected": null
+  },
+  {
+   "id": "direction-latin-then-hebrew",
+   "fn": "direction",
+   "input": {
+    "text": "aאבג"
+   },
+   "expected": "ltr"
+  }
+ ]
+}
